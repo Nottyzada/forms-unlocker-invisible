@@ -6,8 +6,11 @@ Script para desbloquear o Google Forms, permitindo trocar de página sem notific
 
 Com o Tampermonkey ou Violentmonkey instalado, clique em uma das opções abaixo e confirme a instalação:
 
-- [Instalar no Tampermonkey](https://raw.githubusercontent.com/Nottyzada/forms-unlocker-invisible/main/script.js)
-- [Instalar no Violentmonkey](https://raw.githubusercontent.com/Nottyzada/forms-unlocker-invisible/main/script.js)
+<a class="install-link" href="https://raw.githubusercontent.com/Nottyzada/forms-unlocker-invisible/main/script.js">Instalar o script</a>
+
+O link acima usa o arquivo bruto do GitHub. Com o Tampermonkey ou Violentmonkey instalado, o navegador deve reconhecer o userscript e abrir a tela de instalação da extensão.
+
+Link direto: [script.js — versão bruta](https://raw.githubusercontent.com/Nottyzada/forms-unlocker-invisible/main/script.js)
 
 O ícone do script será carregado automaticamente pelo arquivo `icon.png` do repositório.
 
