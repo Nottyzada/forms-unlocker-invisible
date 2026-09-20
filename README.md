@@ -57,6 +57,14 @@ O cabeçalho do script limita a execução a páginas com o endereço `docs.goog
 4. Clique uma vez nessa área para acionar a ação. A página será recarregada com o marcador `#gfu` na URL.
 5. Se o formulário continuar bloqueado, recarregue a página manualmente e verifique os passos de solução de problemas abaixo.
 
+### Posição exata do botão
+
+O botão fica no **canto inferior esquerdo da janela**, sobre a pequena área destacada na imagem abaixo. Clique dentro do quadrado indicado pela seta; como o botão é invisível, não haverá um texto visível sobre ele.
+
+![Posição do botão invisível no Google Forms](./CliqueA.png)
+
+> A área clicável acompanha a janela do navegador, não o conteúdo central do formulário. Se você redimensionar a janela ou alterar o zoom, procure novamente o canto inferior esquerdo.
+
 O botão é intencionalmente invisível; isso não significa que o script esteja desativado. Em algumas situações o script também mostra uma mensagem informando que um *User Agent Spoofer* é necessário. Só instale ferramentas adicionais se você confiar nelas e tiver autorização para usá-las.
 
 ## Verificar se está funcionando
