@@ -6,6 +6,9 @@
 // @match       *://docs.google.com/forms/*
 // @grant       GM_addStyle
 // @version     1.7
+// @icon        https://raw.githubusercontent.com/Nottyzada/forms-unlocker-invisible/main/icon.png
+// @downloadURL https://raw.githubusercontent.com/Nottyzada/forms-unlocker-invisible/main/script.js
+// @updateURL   https://raw.githubusercontent.com/Nottyzada/forms-unlocker-invisible/main/script.js
 // @run-at	 document-start
 // @homepageURL https://github.com/Nottyzada/forms-unlocker-invisible
 // @supportURL  https://github.com/Nottyzada/forms-unlocker-invisible/issues

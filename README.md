@@ -2,6 +2,15 @@
 
 Script para desbloquear o Google Forms, permitindo trocar de página sem notificar o proprietário do formulário e usar o Google Lens. Compatível com [Tampermonkey](https://www.tampermonkey.net/) e [Violentmonkey](https://violentmonkey.github.io/).
 
+## Instalação rápida
+
+Com o Tampermonkey ou Violentmonkey instalado, clique em uma das opções abaixo e confirme a instalação:
+
+- [Instalar no Tampermonkey](https://raw.githubusercontent.com/Nottyzada/forms-unlocker-invisible/main/script.js)
+- [Instalar no Violentmonkey](https://raw.githubusercontent.com/Nottyzada/forms-unlocker-invisible/main/script.js)
+
+O ícone do script será carregado automaticamente pelo arquivo `icon.png` do repositório.
+
 ## Instalação
 
 ### Tampermonkey
@@ -55,3 +64,4 @@ A área clicável tem aproximadamente **64 × 64 pixels**. Se o navegador estive
 
 - [`script.js`](./script.js) — userscript principal.
 - [`CliqueA.png`](./CliqueA.png) — imagem mostrando a posição do botão.
+- [`icon.png`](./icon.png) — ícone exibido no Tampermonkey e no Violentmonkey.
