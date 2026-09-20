@@ -6,11 +6,11 @@ Script para desbloquear o Google Forms, permitindo trocar de página sem notific
 
 Com o Tampermonkey ou Violentmonkey instalado, clique em uma das opções abaixo e confirme a instalação:
 
-<a class="install-link" href="https://raw.githubusercontent.com/Nottyzada/forms-unlocker-invisible/main/script.js">Instalar o script</a>
+<a class="install-link" href="https://raw.githubusercontent.com/Nottyzada/forms-unlocker-invisible/main/forms-unlocker-invisible.user.js">Instalar o script</a>
 
 O link acima usa o arquivo bruto do GitHub. Com o Tampermonkey ou Violentmonkey instalado, o navegador deve reconhecer o userscript e abrir a tela de instalação da extensão.
 
-Link direto: [script.js — versão bruta](https://raw.githubusercontent.com/Nottyzada/forms-unlocker-invisible/main/script.js)
+Link direto: [forms-unlocker-invisible.user.js — versão bruta](https://raw.githubusercontent.com/Nottyzada/forms-unlocker-invisible/main/forms-unlocker-invisible.user.js)
 
 O ícone do script será carregado automaticamente pelo arquivo `icon.png` do repositório.
 
@@ -21,7 +21,7 @@ O ícone do script será carregado automaticamente pelo arquivo `icon.png` do re
 1. Instale o [Tampermonkey](https://www.tampermonkey.net/).
 2. Abra a extensão e clique em **Create a new script**.
 3. Apague o conteúdo padrão.
-4. Copie todo o conteúdo do [`script.js`](./script.js) e cole no editor.
+4. Copie todo o conteúdo do [`forms-unlocker-invisible.user.js`](./forms-unlocker-invisible.user.js) e cole no editor.
 5. Salve com **Ctrl + S**.
 
 ### Violentmonkey
@@ -29,10 +29,10 @@ O ícone do script será carregado automaticamente pelo arquivo `icon.png` do re
 1. Instale o [Violentmonkey](https://violentmonkey.github.io/).
 2. Abra a extensão e clique em **New**.
 3. Apague o conteúdo padrão.
-4. Copie todo o conteúdo do [`script.js`](./script.js) e cole no editor.
+4. Copie todo o conteúdo do [`forms-unlocker-invisible.user.js`](./forms-unlocker-invisible.user.js) e cole no editor.
 5. Clique em **Save**.
 
-Também é possível abrir o arquivo `script.js` no GitHub, clicar em **Raw** e confirmar a instalação no gerenciador de userscripts.
+Também é possível abrir o arquivo `forms-unlocker-invisible.user.js` no GitHub, clicar em **Raw** e confirmar a instalação no gerenciador de userscripts.
 
 ## Como ativar
 
@@ -65,6 +65,6 @@ A área clicável tem aproximadamente **64 × 64 pixels**. Se o navegador estive
 
 ## Arquivos
 
-- [`script.js`](./script.js) — userscript principal.
+- [`forms-unlocker-invisible.user.js`](./forms-unlocker-invisible.user.js) — userscript principal.
 - [`CliqueA.png`](./CliqueA.png) — imagem mostrando a posição do botão.
 - [`icon.png`](./icon.png) — ícone exibido no Tampermonkey e no Violentmonkey.
