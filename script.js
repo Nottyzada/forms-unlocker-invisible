@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Forms Unlocker Invisible
 // @namespace   https://github.com/Nottyzada/forms-unlocker-invisible
-// @description Google Forms Unlocker with an invisible bypass button.
+// @description Desbloqueia o Google Forms, permitindo trocar de página sem notificar o proprietário e usar o Google Lens.
 // @author      Forster @ github.com/Nottyzada
 // @match       *://docs.google.com/forms/*
 // @grant       GM_addStyle

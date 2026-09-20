@@ -1,6 +1,6 @@
 # Forms Unlocker Invisible
 
-Userscript para Google Forms, compatível com [Tampermonkey](https://www.tampermonkey.net/) e [Violentmonkey](https://violentmonkey.github.io/).
+Script para desbloquear o Google Forms, permitindo trocar de página sem notificar o proprietário do formulário e usar o Google Lens. Compatível com [Tampermonkey](https://www.tampermonkey.net/) e [Violentmonkey](https://violentmonkey.github.io/).
 
 ## Instalação
 
